@@ -13,7 +13,7 @@ class ViewController: UIViewController {
 
     
     var test = "test"
-    
+    var test2 = "test2"
     @IBOutlet var tapGesture: UITapGestureRecognizer!
     
     
