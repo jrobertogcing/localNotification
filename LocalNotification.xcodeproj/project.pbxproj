@@ -193,7 +193,7 @@
 				TargetAttributes = {
 					E1CE153F1F2CD2FC00966263 = {
 						CreatedOnToolsVersion = 8.2.1;
-						DevelopmentTeam = C43T8QRVTC;
+						DevelopmentTeam = 2KAGQ44QH8;
 						ProvisioningStyle = Automatic;
 					};
 					E1CE15531F2CD2FC00966263 = {
@@ -415,7 +415,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = C43T8QRVTC;
+				DEVELOPMENT_TEAM = 2KAGQ44QH8;
 				INFOPLIST_FILE = LocalNotification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Robert-Gonza-lez.LocalNotification";
@@ -428,7 +428,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
-				DEVELOPMENT_TEAM = C43T8QRVTC;
+				DEVELOPMENT_TEAM = 2KAGQ44QH8;
 				INFOPLIST_FILE = LocalNotification/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "Robert-Gonza-lez.LocalNotification";
@@ -514,6 +514,7 @@
 				E1CE156A1F2CD2FC00966263 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1CE156B1F2CD2FC00966263 /* Build configuration list for PBXNativeTarget "LocalNotificationTests" */ = {
 			isa = XCConfigurationList;
@@ -522,6 +523,7 @@
 				E1CE156D1F2CD2FC00966263 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		E1CE156E1F2CD2FC00966263 /* Build configuration list for PBXNativeTarget "LocalNotificationUITests" */ = {
 			isa = XCConfigurationList;
@@ -530,6 +532,7 @@
 				E1CE15701F2CD2FC00966263 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
