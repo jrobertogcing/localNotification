@@ -12,6 +12,8 @@ import UserNotifications
 class ViewController: UIViewController {
 
     
+    var test = "test"
+    
     @IBOutlet var tapGesture: UITapGestureRecognizer!
     
     
